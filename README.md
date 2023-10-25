@@ -33,3 +33,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+
+<h2 align="center">
+  My Github Stats <!--img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"-->
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://my-github-readme-status.vercel.app/api?username=p920750&show_icons=true&theme=radical&line_height=27&count_private=true">
+ <!-- <img src = "https://my-github-readme-status.vercel.app/api/top-langs/?username=p920750&"> -->
+</p> 
+
+<p align = "center">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=p920750&theme=radical&hide_border=true" />
+</p> 
