@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<!--
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/p920750/p920750/blob/main/images/github-header-image.png" />
+
+
+
 **p920750/p920750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
