@@ -1,20 +1,11 @@
 ### Hi there 👋
-
-
-
-
-**p920750/p920750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in Java and C Programming.
+👋 Hi, I’m Naveen Ajesh
+👀 I’m interested in learning different new programming language's and also getting new updates..
+🌱 I’m currently learning different modules in Java and C..
+💞️ I’m looking to collaborate on beginner and intermediate python projects..
+📫 Reach me out @pra118een@gmail.com
+😄 Pronouns: He/Him
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
